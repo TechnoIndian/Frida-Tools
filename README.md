@@ -6,7 +6,7 @@
 
 
 <p align="center"> 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=𝐅𝐫𝐢𝐝𝐚-𝐓𝐨𝐨𝐥𝐬 + 𝐢𝐧 𝐓𝐞𝐫𝐦𝐮𝐱" /> 
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=F74848&center=true&vCenter=true&random=false&width=435&lines=𝐅𝐫𝐢𝐝𝐚-𝐓𝐨𝐨𝐥𝐬+𝐢𝐧+𝐓𝐞𝐫𝐦𝐮𝐱" /> 
  </p>
 
 
