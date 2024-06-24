@@ -19,7 +19,7 @@
 
 ## Installation Commands
 ```python
-pkg install wget -y && wget -O Frida-Tools-in-Termux.sh https://raw.githubusercontent.com/TechnoIndian/Frida-Tools/main/Frida-Tools-in-Termux.sh && chmod -R +x Frida-Tools-in-Termux.sh && ./Frida-Tools-in-Termux.sh
+curl -s https://raw.githubusercontent.com/TechnoIndian/Frida-Tools/main/Frida-Tools-in-Termux.sh | bash
 ```
 
 
